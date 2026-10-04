@@ -1,1 +1,1 @@
-# aws-rds-migration-read--replica-lab
+# aws-rds-migration-read-replica-lab
